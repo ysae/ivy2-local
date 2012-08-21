@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="org.clapper" module="sbt-lwm" revision="0.3.2" status="release" publication="20120821104626" e:scalaVersion="2.9.1" e:sbtVersion="0.11.3">
+	<info organisation="org.clapper" module="sbt-lwm" revision="0.3.2" status="release" publication="20120821114640" e:scalaVersion="2.9.1" e:sbtVersion="0.11.3">
 		<license name="BSD-like" url="http://software.clapper.org/sbt-lwm/license.html"/>
 		<description>
 		An SBT plugin for processing lightweight markup files
